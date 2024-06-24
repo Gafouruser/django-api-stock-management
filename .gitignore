@@ -1,0 +1,4 @@
+/.idea
+/env
+/gestion_stock_backend/media
+/gestion_stock_backend/db.sqlite3
